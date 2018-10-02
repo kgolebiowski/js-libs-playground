@@ -2,7 +2,8 @@
   "name": "shared-js-libs",
   "version": "1.0.0",
   "dependencies": {
-    "marquee3000": "^1.0.9"
+    "marquee3000": "^1.0.9",
+    "masonry-layout": "^4.2.2"
   },
   "devDependencies": {
     "liferay-npm-bundler": "^2.0.0"
