@@ -1,0 +1,13 @@
+{
+  "name": "shared-js-libs",
+  "version": "1.0.0",
+  "dependencies": {
+    "marquee3000": "^1.0.9"
+  },
+  "devDependencies": {
+    "liferay-npm-bundler": "^2.0.0"
+  },
+  "scripts": {
+    "build": "liferay-npm-bundler"
+  }
+}
