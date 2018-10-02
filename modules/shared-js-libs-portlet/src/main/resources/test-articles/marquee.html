@@ -1,0 +1,17 @@
+<div class="marquee3k"
+     data-speed="0.25"
+     data-reverse=true
+     data-pausable=true>
+    <h1>This is some marquee content...</h1>
+</div>
+
+<script type="text/javascript">
+    require(['shared-js-libs$marquee3000@1.0.9/marquee3k.min'],
+        function (marquee3k) {
+            marquee3k.init();
+        },
+        function (error) {
+            console.log(error);
+        }
+    );
+</script>
