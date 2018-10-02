@@ -1,0 +1,4 @@
+Bundle-Name: shared-js-libs-portlet
+Bundle-SymbolicName: shared.js.libs.portlet
+Bundle-Version: 1.0.0
+Export-Package: shared.js.libs.portlet.constants
